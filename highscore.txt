@@ -1,0 +1,4 @@
+test took 50 attempts
+player_one took 6 attempts
+fičo took 5 attempts
+jan took 3 attempts
